@@ -1,7 +1,7 @@
 ---
 title: "PAIR Scholarly Reflection #4: AlphaEvolve and the Boundaries of Algorithmic Discovery"
 subtitle: "ANLY 735: Predictive AI | Week 7 Reflection"
-author: "Graduate Student"
+author: "Halson Ogeto Nyaberi"
 date: "October 14, 2026"
 format:
   docx:
